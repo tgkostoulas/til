@@ -1,0 +1,3 @@
+dir /b > print.txt
+
+Create a txt file of all file names in a directory via CMD
